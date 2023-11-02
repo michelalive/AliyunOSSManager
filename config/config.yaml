@@ -1,0 +1,6 @@
+# aliyun-admin config.yaml
+
+Endpoint: "your-Endpoint"
+AccessKeyId: "your-AccessKeyId"
+AccessKeySecret: "your-AccessKeySecret"
+BucketName: "your-bucket"
