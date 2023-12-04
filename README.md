@@ -1,4 +1,4 @@
-# oss-admin
+# AliyunOSSManager
 
 ## 1. 配置文件修改
 
